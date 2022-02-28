@@ -1,0 +1,10 @@
+Variables: son lugares reservados en la memoria de la máquina en la que estamos trabajando para guardar información. Para ubicarlos en todo momento debemos darle un nombre único. Es como una casilla con etiqueta en un juego de mesa.
+
+Strings: es un conjunto de letras, tengan o no sentido. para que la máquina sepa que son un conjunto de letras, se debe empezar a escribirlas con una o dos comillas y terminarlas de la misma manera.
+
+Funciones: son un trozo de código con el que le digo a la máquina que haga algo, a este trozo de código se le pasan datos con los que trabajar. Estos datos se llaman argumentos. Y después de realizar la tarea, la función devuelve otros datos, para eso utilizamos la sentencia return.
+
+Declaraciones: a veces hay que decirle a la máquina que haga una cosa o la otra dependiendo de los valores de los datos que van cambiando. Para eso se utilizan las sentecias if. Si (if) los datos toman ciertos valores se le dice
+a la máquina que haga tal cosa. Si no toman esos valores la máquina no ejecuta esas instrucciones que detallamos después de la sentencia if.
+
+Valores booleanos: existen dos valores booleanos true y false. cuando las expresiones que escribimos en el código son evaluadas toman esos valores, por ejemplo: 2 > 1(true), 'hola' === 'adiós'(false), etc.
