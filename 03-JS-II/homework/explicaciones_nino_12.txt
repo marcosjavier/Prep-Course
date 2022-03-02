@@ -1,0 +1,3 @@
+for: son sentencias que se ejecutan en bucle, hasta que se cumple cierta condición que finaliza el bucle y devuelve cierto valor buscado.
+
+operadores lógicos: permitan evaluar expresiones para saber si son verdaderas o no permitiendo así ejecutar o no ciertas sentencias para controlar el flujo de datos.
