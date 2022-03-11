@@ -1,0 +1,9 @@
+Objetos: son espacios de memoria que se crean dandole un nombre y asignando valores a sus propiedades.
+
+Propiedades: las propiedades del objeto se enumeran dándole un nombre seguido por dos puntos y un valor. Así el conjunto de claves y valores vá describiendo el objeto.
+
+Métodos: Así como definimos las propiedades, también definimos los métodos dándole un nombre y en lugar de asignarle un valor definimos una función asociada a éste nombre.
+
+Bucle for...in : es una función que se utiliza para iterar(recorrer) los elementos de un objeto, con él vamos accediento a cada elemento que le pertenece. funciona de manera similar al método for para los Array.
+
+Notación de Puntos vs Notación de Corchetes: para acceder a los elementos de un objeto lo podemos hacer de dos formas. Mediante la notación de Puntos(dot notation) donde escribimos el objeto seguido de un punto y el nombre de la propiedad o el método y por medio de la Notación por Corchete(bracket notation); en este caso junto al nombre del objeto abrimos un corchete y escribimos mediante una cadena el nombre del elemento o el método.
