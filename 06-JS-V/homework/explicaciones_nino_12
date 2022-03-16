@@ -1,0 +1,2 @@
+prototype: cada clase en JavaScript tine una propiedad llamada prototype que se usa para crear métodos comunes a esta clase. Los métodos de prototype tienen acceso a la palabra clave this, así que siempre apuntará al objeto que lo está llamando.
+Constructor: es un método especial para crear e inicializar un objeto creado con una clase. Sólo puede haber un solo método especial con el nombre "constructor" en una clase
