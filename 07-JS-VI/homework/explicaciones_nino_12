@@ -1,0 +1,1 @@
+Callbacks: son funciones que pueden recibir como argumento otra función.Pueden llamarse en cualquier momento y se pueden pasar argumentos dentro de ésta. Son muy importantes en JavaScript.
